@@ -12,7 +12,7 @@ This repository contains hands-on cybersecurity and networking labs built to pra
 - Enabled and validated SSH access between host and VMs
 - Documented network design, configurations, validation, and troubleshooting
 
-👉 See the full lab documentation here:  
+See the full lab documentation here: 
 `lab/kali-ubuntu-dual-nic/README.md`
 
 ## Technologies Used
